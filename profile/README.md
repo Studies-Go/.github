@@ -22,8 +22,10 @@ Studies-Go 是一個具備智慧型教育的輔助學習專案，透過許多創
 
 ## Support us
 
-<a href="https://paypal.me/mouchi3398">
-  <p align="center"><img src="https://github.com/Studies-Go/.github/blob/main/img/PayPal.png" ></p>
-</a>
+<div style="width: 220px;height: 30px;">
+    <a href="https://paypal.me/mouchi3398">
+        <p align="center"><img src="https://github.com/Studies-Go/.github/blob/main/img/PayPal.png" ></p>
+    </a>
+</div>
 
 ### Copyright © 2023 MouchiLab(Studies-Go). All rights reserved.
